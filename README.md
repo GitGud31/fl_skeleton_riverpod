@@ -1,6 +1,6 @@
 # new_skeleton_riverpod
 
-A new Flutter project.
+Flutter skeleton template app with Riverpod.
 
 ## Getting Started
 
