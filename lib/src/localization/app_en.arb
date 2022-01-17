@@ -1,0 +1,6 @@
+{
+  "appTitle": "new_skeleton_riverpod",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
